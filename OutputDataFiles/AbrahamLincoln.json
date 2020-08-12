@@ -1,0 +1,567 @@
+{
+    "document": "AbrahamLincoln.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "To secure its independence, the new Confederate States of America fired on Fort Sumter, one of the few U.S. forts in the South."
+            ],
+            "arguments": {
+                "1": "fort sumter",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Family and childhood\nEarly life\nAbraham Lincoln was born on February 12, 1809, as the second child of Thomas and Nancy Hanks Lincoln, in a one-room log cabin on Sinking Spring Farm near Hodgenville, Kentucky."
+            ],
+            "arguments": {
+                "1": "hodgenville",
+                "2": "kentucky"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Thomas then worked at odd jobs in Kentucky and in Tennessee, before settling with members of his family in Hardin County, Kentucky, in the early 1800s."
+            ],
+            "arguments": {
+                "1": "kentucky",
+                "2": "tennessee"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Thomas then worked at odd jobs in Kentucky and in Tennessee, before settling with members of his family in Hardin County, Kentucky, in the early 1800s."
+            ],
+            "arguments": {
+                "1": "kentucky",
+                "2": "hardin county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Thomas then worked at odd jobs in Kentucky and in Tennessee, before settling with members of his family in Hardin County, Kentucky, in the early 1800s."
+            ],
+            "arguments": {
+                "1": "tennessee",
+                "2": "hardin county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Thomas and Nancy married on June 12, 1806, in Washington County, and moved to Elizabethtown, Kentucky."
+            ],
+            "arguments": {
+                "1": "washington county",
+                "2": "elizabethtown"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Thomas and Nancy married on June 12, 1806, in Washington County, and moved to Elizabethtown, Kentucky."
+            ],
+            "arguments": {
+                "1": "washington county",
+                "2": "kentucky"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Indiana was a \"free\" (non-slaveholding) territory, and they settled in an \"unbroken forest\" in Hurricane Township, Perry County."
+            ],
+            "arguments": {
+                "1": "hurricane township",
+                "2": "perry county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In early March 1830, partly out of fear of a milk sickness outbreak, several members of the extended Lincoln family moved west to Illinois, a free state, and settled in Macon County, 10 miles (16 km) west of Decatur."
+            ],
+            "arguments": {
+                "1": "illinois",
+                "2": "decatur"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In early March 1830, partly out of fear of a milk sickness outbreak, several members of the extended Lincoln family moved west to Illinois, a free state, and settled in Macon County, 10 miles (16 km) west of Decatur."
+            ],
+            "arguments": {
+                "1": "macon county",
+                "2": "decatur"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1831, as Thomas and other family prepared to move to a new homestead in Coles County, Illinois, Abraham left home."
+            ],
+            "arguments": {
+                "1": "coles county",
+                "2": "illinois"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1840, Lincoln became engaged to Mary Todd, a daughter of Robert Smith Todd, a wealthy slave-owner in Lexington, Kentucky."
+            ],
+            "arguments": {
+                "1": "lexington",
+                "2": "kentucky"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "They met in Springfield, Illinois in December 1839 and were engaged a year later."
+            ],
+            "arguments": {
+                "1": "springfield",
+                "2": "illinois"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Early career and militia service\nIn 1832 Lincoln and partner Denton Offutt bought a general store on credit in New Salem, Illinois."
+            ],
+            "arguments": {
+                "1": "new salem",
+                "2": "illinois"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As the 1850s progressed, the debate over slavery in the Nebraska Territory and Kansas Territory became particularly acrimonious, and Senator Douglas proposed popular sovereignty as a compromise measure; the proposal would allow the electorate of each territory to decide the status of slavery."
+            ],
+            "arguments": {
+                "1": "the nebraska territory",
+                "2": "kansas territory"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On February 23, 1861, he arrived in disguise in Washington, D.C., which was placed under substantial military guard."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Virginia seceded and was rewarded with the Confederate capital, despite the exposed position of Richmond close to Union lines."
+            ],
+            "arguments": {
+                "1": "virginia",
+                "2": "richmond"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Secession sentiment was strong in Missouri and Maryland, but did not prevail; Kentucky remained neutral."
+            ],
+            "arguments": {
+                "1": "missouri",
+                "2": "maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Secession sentiment was strong in Missouri and Maryland, but did not prevail; Kentucky remained neutral."
+            ],
+            "arguments": {
+                "1": "missouri",
+                "2": "kentucky"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Secession sentiment was strong in Missouri and Maryland, but did not prevail; Kentucky remained neutral."
+            ],
+            "arguments": {
+                "1": "maryland",
+                "2": "kentucky"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "John Merryman, a Maryland official involved in hindering the U.S. troop movements, petitioned Supreme Court Chief Justice and Marylander, Roger B. Taney, author of the Dred Scott opinion, to issue a writ of habeas corpus."
+            ],
+            "arguments": {
+                "1": "maryland",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In late August 1861, General John C. Fr\u00e9mont, the 1856 Republican presidential nominee, without consulting his superiors in Washington, proclaimed a very harsh martial law in Missouri without consultation."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "missouri"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the spring of 1863, Lincoln became optimistic about upcoming military campaigns to the point of thinking the end of the war could be near if a string of victories could be put together; these plans included attacks by Hooker on Lee north of Richmond, Rosecrans on Chattanooga, Grant on Vicksburg, and a naval assault on Charleston."
+            ],
+            "arguments": {
+                "1": "richmond",
+                "2": "chattanooga"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the spring of 1863, Lincoln became optimistic about upcoming military campaigns to the point of thinking the end of the war could be near if a string of victories could be put together; these plans included attacks by Hooker on Lee north of Richmond, Rosecrans on Chattanooga, Grant on Vicksburg, and a naval assault on Charleston."
+            ],
+            "arguments": {
+                "1": "richmond",
+                "2": "vicksburg"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the spring of 1863, Lincoln became optimistic about upcoming military campaigns to the point of thinking the end of the war could be near if a string of victories could be put together; these plans included attacks by Hooker on Lee north of Richmond, Rosecrans on Chattanooga, Grant on Vicksburg, and a naval assault on Charleston."
+            ],
+            "arguments": {
+                "1": "richmond",
+                "2": "charleston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Sherman's capture of Atlanta in September and David Farragut's capture of Mobile ended defeatism."
+            ],
+            "arguments": {
+                "1": "atlanta",
+                "2": "mobile"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The high point came in 1922 with the dedication of the Lincoln Memorial on the National Mall in Washington, D.C."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The most famous and most visited memorials are Lincoln's sculpture on Mount Rushmore; Lincoln Memorial, Ford's Theatre, and Petersen House (where he died) in Washington, D.C.; and the Abraham Lincoln Presidential Library and Museum in Springfield, Illinois, not far from Lincoln's home, as well as his tomb."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The most famous and most visited memorials are Lincoln's sculpture on Mount Rushmore; Lincoln Memorial, Ford's Theatre, and Petersen House (where he died) in Washington, D.C.; and the Abraham Lincoln Presidential Library and Museum in Springfield, Illinois, not far from Lincoln's home, as well as his tomb."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "springfield"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The most famous and most visited memorials are Lincoln's sculpture on Mount Rushmore; Lincoln Memorial, Ford's Theatre, and Petersen House (where he died) in Washington, D.C.; and the Abraham Lincoln Presidential Library and Museum in Springfield, Illinois, not far from Lincoln's home, as well as his tomb."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "illinois"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The most famous and most visited memorials are Lincoln's sculpture on Mount Rushmore; Lincoln Memorial, Ford's Theatre, and Petersen House (where he died) in Washington, D.C.; and the Abraham Lincoln Presidential Library and Museum in Springfield, Illinois, not far from Lincoln's home, as well as his tomb."
+            ],
+            "arguments": {
+                "1": "d.c.",
+                "2": "springfield"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The most famous and most visited memorials are Lincoln's sculpture on Mount Rushmore; Lincoln Memorial, Ford's Theatre, and Petersen House (where he died) in Washington, D.C.; and the Abraham Lincoln Presidential Library and Museum in Springfield, Illinois, not far from Lincoln's home, as well as his tomb."
+            ],
+            "arguments": {
+                "1": "d.c.",
+                "2": "illinois"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The most famous and most visited memorials are Lincoln's sculpture on Mount Rushmore; Lincoln Memorial, Ford's Theatre, and Petersen House (where he died) in Washington, D.C.; and the Abraham Lincoln Presidential Library and Museum in Springfield, Illinois, not far from Lincoln's home, as well as his tomb."
+            ],
+            "arguments": {
+                "1": "springfield",
+                "2": "illinois"
+            }
+        }
+    ]
+}{
+    "document": "AbrahamLincoln.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "Thomas Lincoln bought or leased farms in Kentucky."
+            ],
+            "arguments": {
+                "1": "Thomas Lincoln",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1844, the couple bought a house in Springfield near Lincoln's law office."
+            ],
+            "arguments": {
+                "1": "the couple",
+                "2": "a house",
+                "3": "",
+                "4": "",
+                "5": "Springfield"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1832 Lincoln and partner Denton Offutt bought a general store on credit in New Salem, Illinois."
+            ],
+            "arguments": {
+                "1": "Lincoln and partner Denton Offutt",
+                "2": "a general store",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1851, he represented the Alton & Sangamon Railroad in a dispute with shareholder James A. Barret, who had refused to pay the balance on his pledge to buy shares on the grounds that the company had changed its original train route."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "shares",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In May 1859, Lincoln purchased the Illinois Staats-Anzeiger, a German-language newspaper that was consistently supportive; most of the state's 130,000 German Americans voted Democratic but the German-language paper mobilized Republican support."
+            ],
+            "arguments": {
+                "1": "Lincoln",
+                "2": "Anzeiger",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Lincoln rejected the idea, saying, \"I will suffer death before I consent ... to any concession or compromise which looks like buying the privilege to take possession of this government to which we have a constitutional right."
+            ],
+            "arguments": {
+                "1": "Lincoln",
+                "2": "the privilege",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The law opened land for a lease of three years with the ability to purchase title for the freedmen."
+            ],
+            "arguments": {
+                "1": "The law",
+                "2": "title",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The 1862 Homestead Act made millions of acres of Western government-held land available for purchase at low cost."
+            ],
+            "arguments": {
+                "1": "The 1862 Homestead Act",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}{
+    "document": "AbrahamLincoln.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "Self-educated, he became a lawyer, Whig Party leader, state legislator and Congressman."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "Congressman",
+                "3": "lawyer; legislator; leader",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "He became a leader in the new Republican Party and gained national attention in 1858 for debating and losing to national Democratic leader Stephen A. Douglas in a Senate campaign."
+            ],
+            "arguments": {
+                "1": "Douglas",
+                "2": "Party",
+                "3": "leader",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "He decided to become a lawyer and began teaching himself law by reading Blackstone's Commentaries on the Laws of England and other law books."
+            ],
+            "arguments": {
+                "1": "He",
+                "2": "England",
+                "3": "lawyer",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "The administration offered him the consolation prize of secretary or governor of the Oregon Territory."
+            ],
+            "arguments": {
+                "1": "administration",
+                "2": "Territory",
+                "3": "secretary; governor",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In the aftermath of the 1858 election, newspapers frequently mentioned Lincoln as a potential Republican presidential candidate, rivaled by William H. Seward, Salmon P. Chase, Edward Bates, and Simon Cameron."
+            ],
+            "arguments": {
+                "1": "Cameron",
+                "2": "Lincoln",
+                "3": "candidate",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Meade's failure to capture Lee's army after Gettysburg and the continued passivity of the Army of the Potomac persuaded Lincoln to promote Grant to supreme commander."
+            ],
+            "arguments": {
+                "1": "Lee",
+                "2": "Lincoln",
+                "3": "commander",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "While the Democratic platform followed the \"Peace wing\" of the party and called the war a \"failure\", their candidate, McClellan, supported the war and repudiated the platform."
+            ],
+            "arguments": {
+                "1": "platform",
+                "2": "McClellan",
+                "3": "candidate",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Lincoln believed Chase was an able jurist, would support Reconstruction legislation, and that his appointment united the Republican Party.\n\n"
+            ],
+            "arguments": {
+                "1": "appointment",
+                "2": "Party",
+                "3": "jurist",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "D.C. In the New Deal era, liberals honored Lincoln not so much as the self-made man or the great war president, but as the advocate of the common man who they claimed would have supported the welfare state."
+            ],
+            "arguments": {
+                "1": "they",
+                "2": "Lincoln",
+                "3": "president",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In the 21st century, President Barack Obama named Lincoln his favorite president and insisted on using Lincoln's Bible for his inaugural ceremonies.\n\n"
+            ],
+            "arguments": {
+                "1": "Obama",
+                "2": "Lincoln",
+                "3": "president",
+                "4": ""
+            }
+        }
+    ]
+}

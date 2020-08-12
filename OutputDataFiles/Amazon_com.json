@@ -1,0 +1,364 @@
+{
+    "document": "Amazon_com.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Amazon was founded by Jeff Bezos in Bellevue, Washington, in July 1994."
+            ],
+            "arguments": {
+                "1": "bellevue",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The company began selling music and videos in 1998, at which time it began operations internationally by acquiring online sellers of books in United Kingdom and Germany."
+            ],
+            "arguments": {
+                "1": "united kingdom",
+                "2": "germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The service, included in Amazon's standard shipping rates, initiated in metropolitan areas of Los Angeles and New York because of the high-volume and inability to deliver in a timely way, with plans to expand into Dallas, Houston, New Orleans and Phoenix by 2014."
+            ],
+            "arguments": {
+                "1": "los angeles",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Brilliance Audio\n\nBrilliance Audio is an audiobook publisher founded in 1984 by Michael Snodgrass in Grand Haven, Michigan."
+            ],
+            "arguments": {
+                "1": "grand haven",
+                "2": "michigan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Amazon filed communications license documents with the U.S. regulatory authorities the FCC in July 2019, which included information that the wholly owned Amazon subsidiary that intended to deploy the satellite constellation was Kuiper Systems LLC, based in Seattle, Washington."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "seattle"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Amazon filed communications license documents with the U.S. regulatory authorities the FCC in July 2019, which included information that the wholly owned Amazon subsidiary that intended to deploy the satellite constellation was Kuiper Systems LLC, based in Seattle, Washington."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Amazon filed communications license documents with the U.S. regulatory authorities the FCC in July 2019, which included information that the wholly owned Amazon subsidiary that intended to deploy the satellite constellation was Kuiper Systems LLC, based in Seattle, Washington."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "During 2020 the Kuiper team will move to a larger R&D facility in Redmond, Washington."
+            ],
+            "arguments": {
+                "1": "redmond",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Souq\n\nSouq.com is the largest E-Commerce platform in the Middle East based in Dubai, United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "dubai",
+                "2": "united arab emirates"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Supply chain\n\nAmazon first launched its distribution network in 1997 with two fulfillment centers in Seattle and New Castle, Delaware."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "new castle"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Supply chain\n\nAmazon first launched its distribution network in 1997 with two fulfillment centers in Seattle and New Castle, Delaware."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "delaware"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Supply chain\n\nAmazon first launched its distribution network in 1997 with two fulfillment centers in Seattle and New Castle, Delaware."
+            ],
+            "arguments": {
+                "1": "new castle",
+                "2": "delaware"
+            }
+        }
+    ]
+}{
+    "document": "Amazon_com.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2017, Amazon acquired Whole Foods Market for US$13.4 billion, which vastly increased Amazon's presence as a brick-and-mortar retailer."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "Whole Foods Market",
+                "3": "US$13.4 billion",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The company began selling music and videos in 1998, at which time it began operations internationally by acquiring online sellers of books in United Kingdom and Germany."
+            ],
+            "arguments": {
+                "1": "The company",
+                "2": "online sellers",
+                "3": "",
+                "4": "",
+                "5": "books"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2012, Amazon bought Kiva Systems to automate its inventory-management business, purchasing Whole Foods Market supermarket chain five years later in 2017.\n"
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "Whole Foods Market supermarket chain",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In January 2015, Amazon Web Services acquired Annapurna Labs, an Israel-based microelectronics company reputedly for US$350\u2013370M.\n"
+            ],
+            "arguments": {
+                "1": "Amazon Web Services",
+                "2": "Annapurna Labs",
+                "3": "US$350\u2013370M.",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On January 31, 2008, Amazon announced it would buy Audible for about $300 million."
+            ],
+            "arguments": {
+                "1": "it",
+                "2": "Audible",
+                "3": "about $300 million",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The company was purchased by Amazon in 2007 for an undisclosed amount."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "The company",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Amazon bought the company in April 2014.\n"
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "the company",
+                "3": "",
+                "4": "",
+                "5": "April 2014"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Amazon announced it would buy Eero in 2019.\n"
+            ],
+            "arguments": {
+                "1": "it",
+                "2": "Eero",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Amazon bought the company in March 2013.\n"
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "the company",
+                "3": "",
+                "4": "",
+                "5": "March 2013"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "As it progressed, Junglee started to use its database technology to create a single window marketplace on the internet by making every item from every supplier available for purchase."
+            ],
+            "arguments": {
+                "1": "it",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Amazon acquired Junglee in 1998, and the website Junglee.com was launched in India in February 2012 as a comparison-shopping website."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "Junglee",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Amazon bought Ring for $1 billion USD in 2018.\n"
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "Ring",
+                "3": "$1 billion USD",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Amazon bought the company in August 2008."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "the company",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On March 28, 2017, Amazon confirmed it would be acquiring Souq.com for $580 million."
+            ],
+            "arguments": {
+                "1": "it",
+                "2": "Souq.com",
+                "3": "$ 580 million",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Later that month, Twitch was acquired by Amazon for $970 million."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "Twitch",
+                "3": "$ 970 million",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}{
+    "document": "Amazon_com.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "In 2017, Amazon acquired Whole Foods Market for US$13.4 billion, which vastly increased Amazon's presence as a brick-and-mortar retailer."
+            ],
+            "arguments": {
+                "1": "which",
+                "2": "Market",
+                "3": "retailer",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "As of November 2019, the board of directors is:\n\n    Jeff Bezos, President, CEO, and Chairman\n    Rosalind Brewer, Group President, and COO, Starbucks\n    Jamie Gorelick, partner, Wilmer Cutler Pickering Hale, and Dorr\n    Daniel P. Huttenlocher, Dean of the Schwarzman College of Computing at the Massachusetts Institute of Technology\n    Judy McGrath, former CEO, MTV Networks\n    "
+            ],
+            "arguments": {
+                "1": "McGrath",
+                "2": "Computing",
+                "3": "CEO",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Through Twitch, Amazon also owns Curse, Inc., an operator of video gaming communities and a provider of VoIP services for gaming."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "Inc.",
+                "3": "operator",
+                "4": ""
+            }
+        }
+    ]
+}
