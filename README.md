@@ -39,6 +39,7 @@ Extracted Template: PART(“Richardson”, “U.S. state of Texas | Texas”)
 Extracted Template: PART(“Texas”, “U.S.”)
 
 Steps to execute Python Files:
+
 for BUY_template(additonal optional argument for neuralcoref)
 python BUY_template.py <text_file_name>
 with coref
